@@ -1,7 +1,8 @@
 # The World on Monday — 23 November 2026
 
-[![make.fun — news-image-20261123](https://img.shields.io/badge/make.fun-news--image--20261123-blue)](https://make.fun/c/news-image-20261123)
-[![front page — 23 Nov 2026](https://img.shields.io/badge/front%20page-23%20Nov%202026-brown)](https://make.fun/c/news-image-20261123)
+[![make.fun · news-image-20261123](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/rendyhermawan22222-source/makefun-news-image-20261123/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/rendyhermawan22222-source/makefun-news-image-20261123/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
 
 A one-page newspaper front page summing up the world's news of Monday,
 23 November 2026. The lead is NATO's emergency North Atlantic Council
